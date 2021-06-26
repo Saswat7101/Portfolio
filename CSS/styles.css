@@ -1,0 +1,138 @@
+body {
+    margin: 0 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    font-weight: bold;
+}
+
+h1 {
+    margin: 50px auto 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Roboto Slab', serif;
+    color: #11999E;
+}
+
+p {
+    line-height: 2;
+}
+
+a {
+    color: #106f72;
+    font-family: 'Roboto Slab', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+
+}
+
+hr {
+    border: dotted #033131 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 70px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 70px auto;
+    text-align: left;
+    
+}
+
+.html-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.hp-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    padding: 100px 0 70px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 40px;
+    right: 400px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    left: 250px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Roboto Slab', serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC48D);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC48D);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC48D);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC48D);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC48D);
+    text-decoration: none;
+  }
