@@ -24,7 +24,7 @@ But we can also make this using any frontend development frameworks like React.
 
 <hr>
 
-Here I have givven the hosted link https://saswat7101.github.io/Portfolio/ 
+Here I have given the [hosted link](https://saswat7101.github.io/Portfolio/) 
 
 Down below are the snaps of my project
 
