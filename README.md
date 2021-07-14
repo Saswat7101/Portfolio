@@ -1,5 +1,7 @@
 # Portfolio
 
+![](https://github.com/Saswat7101/Portfolio/blob/main/Screenshots/SS1.png)
+
 ### Overview
 
 <hr>
@@ -28,6 +30,13 @@ Here I have given the [hosted link](https://saswat7101.github.io/Portfolio/)
 
 Down below are the snaps of my project
 
+![](https://github.com/Saswat7101/Portfolio/blob/main/Screenshots/SS1.png)
+
+![](https://github.com/Saswat7101/Portfolio/blob/main/Screenshots/SS2.png)
+
+![](https://github.com/Saswat7101/Portfolio/blob/main/Screenshots/SS3.png)
+
+![](https://github.com/Saswat7101/Portfolio/blob/main/Screenshots/SS4.png)
 
 ### Conclusion
 
@@ -45,6 +54,8 @@ I followed the course ["The Complete 2021 Web Development Bootcamp"](https://www
 
 <hr>
 
-Name: Saswat Mohanty
-Regd. No.: 1941012407
-College: ITER, SOA
+**Name:** *Saswat Mohanty*
+
+**Regd. No.:** *1941012407*
+
+**College:** *ITER, SOA*
