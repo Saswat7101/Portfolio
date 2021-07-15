@@ -6,7 +6,7 @@
 
 <hr>
 
-Now-a-days portfolio websites are pretty common. These websites are like CVs which includes all the informations regarding a person. So following this trend, I have also made a portfolio wbesite for myself.
+Now-a-days portfolio websites are pretty common. These websites are like CVs which includes all the informations regarding a person. So following this trend, I have also made a portfolio website for myself.
 
 ### About
 
