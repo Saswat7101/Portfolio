@@ -10,7 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Roboto+Slab&family=Sacramento&display=swap" rel="stylesheet">
 </head>
-<body class="dark">
+<body>
     <div class="top-container">
         <img class="cloud top-cloud" src="images/cloud.png" alt="cloud-img">
         <h1>I'm Saswat Mohanty</h1>
@@ -54,6 +54,17 @@
         <a class="footer-link" href="https://github.com/Saswat7101">Github</a>
         <p class="copyright">© 2021 Saswat Mohanty.</p>
       </div>
-      
+      <button class="btn" style="position:fixed;bottom:5px;right:5px;border:0;" onclick="switchmodedarklight(this)">🌕</button>
+      <script>
+      				function switchmodedarklight(but){
+      								if(document.body.classList.contains('dark')){
+      					document.body.classList.remove('dark');
+      					but.innerText="🌕";			
+      								}else{
+      												document.body.classList.add('dark');
+      												but.innerText="☀️";
+      								}
+      				}
+      </script>
 </body>
 </html>
