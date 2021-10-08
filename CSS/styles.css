@@ -5,7 +5,20 @@ body {
     color: #40514E;
     font-weight: bold;
 }
-
+body.dark .middle-container ,body.dark .bottom-container *{
+				color:#fff;
+}
+body.dark{
+				background:#151525;
+}
+body.dark .bottom-container{
+ background:#1f243d;
+}
+@media only screen and (max-width: 600px) {
+  .cloud{
+    display:none;
+  }
+}
 h1 {
     margin: 50px auto 0;
     font-family: 'Sacramento', cursive;
