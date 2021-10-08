@@ -38,7 +38,6 @@ a {
 
 a:hover {
     color: #EAF6F6;
-
 }
 
 hr {
@@ -52,7 +51,6 @@ hr {
     width: 50%;
     margin: 70px auto;
     text-align: left;
-    
 }
 
 .html-image {
@@ -125,9 +123,9 @@ hr {
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-  }
-  
-  .btn:hover {
+}
+
+.btn:hover {
     background: #30E3CB;
     background-image: -webkit-linear-gradient(top, #30E3CB, #2BC48D);
     background-image: -moz-linear-gradient(top, #30E3CB, #2BC48D);
@@ -135,4 +133,9 @@ hr {
     background-image: -o-linear-gradient(top, #30E3CB, #2BC48D);
     background-image: linear-gradient(to bottom, #30E3CB, #2BC48D);
     text-decoration: none;
-  }
+}
+
+.responsive-img {
+    max-width: 100%;
+    height: auto;
+}
