@@ -12,10 +12,10 @@
 </head>
 <body>
     <div class="top-container">
-        <img class="top-cloud" src="images/cloud.png" alt="cloud-img">
+        <img class="cloud top-cloud" src="images/cloud.png" alt="cloud-img">
         <h1>I'm Saswat Mohanty</h1>
         <h2 class="programmer">a programmer.</h2>
-        <img class="bottom-cloud" src="images/cloud.png" alt="cloud-img">
+        <img class="cloud bottom-cloud" src="images/cloud.png" alt="cloud-img">
         <img src="images/mountain.png" alt="mountain-img" class="responsive-img">
     </div>
 
@@ -54,6 +54,17 @@
         <a class="footer-link" href="https://github.com/Saswat7101">Github</a>
         <p class="copyright">© 2021 Saswat Mohanty.</p>
       </div>
-      
+      <button class="btn" style="position:fixed;bottom:5px;right:5px;border:0;" onclick="switchmodedarklight(this)">🌕</button>
+      <script>
+      				function switchmodedarklight(but){
+      								if(document.body.classList.contains('dark')){
+      					document.body.classList.remove('dark');
+      					but.innerText="🌕";			
+      								}else{
+      												document.body.classList.add('dark');
+      												but.innerText="☀️";
+      								}
+      				}
+      </script>
 </body>
 </html>
