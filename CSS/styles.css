@@ -5,12 +5,6 @@ body {
     color: #40514E;
     font-weight: bold;
 }
-
-.mountain{
- width: 100%;
- max-width: 500px;
- height: auto;
-
 body.dark .middle-container ,body.dark .bottom-container *{
 				color:#fff;
 }
@@ -24,7 +18,6 @@ body.dark .bottom-container{
   .cloud{
     display:none;
   }
-
 }
 h1 {
     margin: 50px auto 0;
@@ -78,11 +71,7 @@ hr {
     float: left;
     margin-right: 30px;
 }
-.profile img{
-    width: 100%;
-    max-width: 200px;
-    height: auto;
-}
+
 .hp-image {
     width: 25%;
     float: right;
@@ -157,34 +146,9 @@ hr {
     background-image: -o-linear-gradient(top, #30E3CB, #2BC48D);
     background-image: linear-gradient(to bottom, #30E3CB, #2BC48D);
     text-decoration: none;
-
-  }
-  @media screen and (max-width:276px){
-    h1 {
-        margin: 30px auto 0;
-        font-size: 3rem;
-        z-index: 1;
-    }
-    h2 {
-        font-size: 1.5rem;
-    }
-    .top-cloud {
-        position: absolute;
-        top: 2rem;
-        right: 10px;
-    }
-    .bottom-cloud {
-        position: absolute;
-        bottom: 130px;
-        left: 20px;
-    }
-  }
-
 }
 
 .responsive-img {
     max-width: 100%;
     height: auto;
 }
-
-
